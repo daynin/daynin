@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sergey Golovin</h1>
-<h3 align="center">a Software Engineer and CTO at <a href="https://csssr.com/en">CSSSR</a></h3>
-
 [![Twitter: _sgolovin](https://img.shields.io/twitter/follow/_sgolovin?style=social)](https://twitter.com/_sgolovin)
 [![GitHub daynin](https://img.shields.io/github/followers/daynin?label=follow&style=social)](https://github.com/daynin)
 
