@@ -1,7 +1,7 @@
 [![Twitter: _sgolovin](https://img.shields.io/twitter/follow/_sgolovin?style=social)](https://twitter.com/_sgolovin)
 [![GitHub daynin](https://img.shields.io/github/followers/daynin?label=follow&style=social)](https://github.com/daynin)
 
-### My podcast (in russian):
+### Latest episodes of my podcast (in russian):
 <!-- PODCAST:START -->
 - [Сергей Жук, Брянск, PHP и плохо ли на нём писать, книги в IT, подкаст «Между скобок»](https://soundcloud.com/csssr/sergey-zhuk-bryansk-php-i-plokho-li-na-nyom-pisat-knigi-v-it-podkast-mezhdu-skobok)
 - [Александр Шушунов, Тверь, техлид и тимлид, минусы Apollo,типизация, разница React, Svelte и Vue](https://soundcloud.com/csssr/aleksandr-shushunov-tver-chem-tekhlid-i-timlid-minusy-apollotipizatsiya-raznitsa-react-svelte-i-vue)
