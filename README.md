@@ -9,6 +9,3 @@
 - [Remote Talk #16 — Илья Лесик, Тверь, Tver.io, из C++ в Java и JavaScript](https://soundcloud.com/csssr/remote-talk-16-ilya-lesik-tver-tverio-iz-c-v-java-i-javascript)
 - [Remote Talk #15 — Артём Малышев, Калуга, Django Channels, dry-python, вдохновение фильмом «Хакеры»](https://soundcloud.com/csssr/remote-talk-15-artyom-malyshev-kaluga-django-channels-dry-python-vdokhnovenie-filmom-khakery)
 <!-- PODCAST:END -->
-
-### Stats:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daynin" alt="daynin" /></a> </p>
