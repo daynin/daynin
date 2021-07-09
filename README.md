@@ -3,9 +3,9 @@
 
 ### Latest episodes of my podcast (in russian):
 <!-- PODCAST:START -->
+- [Влад Шилов, Ростов-на-Дону — работа CTO, микробиблиотеки, продвижение OSS, фронтенд-ренессанс](https://soundcloud.com/csssr/vlad-shilov-rostov-na-donu-rabota-cto-mikrobiblioteki-prodvizhenie-oss-frontend-renessans)
 - [Анна Жаркова, Барнаул — мобильная разработка, Kotlin, Swift, UX и a11y приложений, преподавание](https://soundcloud.com/csssr/anna-zharkova-barnaul-mobilnaya-razrabotka-kotlin-swift-ux-i-a11y-prilozheniy-prepodavanie)
 - [Михаил Семёхин, Борис Окунский, Курск — польза GameDev, переход в тимлиды, тех. руководство](https://soundcloud.com/csssr/mikhail-semyokhin-boris-okunskiy-kursk-polza-gamedev-perekhod-v-timlidy-tekh-rukovodstvo)
 - [Павел Аргентов, Тверь, из биолога в программисты, преимущества Ruby и OCaml, FP-сообщества](https://soundcloud.com/csssr/pavel-argentov-tver-iz-biologa-v-programmisty-preimushchestva-ruby-i-ocaml-fp-soobshchestva)
 - [Тагир Валеев, Новосибирск, Java, обучение Computer Science, работа в JetBrains и разработка IDE](https://soundcloud.com/csssr/tagir-valeev-novosibirsk-java-obuchenie-computer-science-rabota-v-jetbrains-i-razrabotka-ide)
-- [Сергей Жук, Брянск, PHP и плохо ли на нём писать, книги в IT, подкаст «Между скобок»](https://soundcloud.com/csssr/sergey-zhuk-bryansk-php-i-plokho-li-na-nyom-pisat-knigi-v-it-podkast-mezhdu-skobok)
 <!-- PODCAST:END -->
