@@ -1,6 +1,10 @@
 [![Twitter: _sgolovin](https://img.shields.io/twitter/follow/_sgolovin?style=social)](https://twitter.com/_sgolovin)
 [![GitHub daynin](https://img.shields.io/github/followers/daynin?label=follow&style=social)](https://github.com/daynin)
 
+### Latest blog posts (in russian):
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 ### Latest episodes of my podcast (in russian):
 <!-- PODCAST:START -->
 - [Влад Шилов, Ростов-на-Дону — работа CTO, микробиблиотеки, продвижение OSS, фронтенд-ренессанс](https://soundcloud.com/csssr/vlad-shilov-rostov-na-donu-rabota-cto-mikrobiblioteki-prodvizhenie-oss-frontend-renessans)
