@@ -3,6 +3,7 @@
 
 ### Latest blog posts (in russian):
 <!-- BLOG:START -->
+- [Феномен Vim и Emacs](https://teletype.in/@sgolovin/vim-and-emacs)
 <!-- BLOG:END -->
 
 ### Latest episodes of my podcast (in russian):
