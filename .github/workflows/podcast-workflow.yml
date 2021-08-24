@@ -1,4 +1,4 @@
-name: Latest podcast episodes workflow
+name: Latest podcast episodes and blog posts workflow
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest podcast episodes
+    name: Update this repo's README with latest podcast episodes and blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,3 +14,7 @@ jobs:
         with:
           comment_tag_name: PODCAST
           feed_list: "https://radio.csssr.com/rss/remotetalk.rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://teletype.in/rss/sgolovin"
