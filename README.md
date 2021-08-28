@@ -3,6 +3,7 @@
 
 ### Latest blog posts (in russian):
 <!-- BLOG:START -->
+- [Подкасту Remote Talk уже 3 года. Как и зачем я его начал делать?](https://teletype.in/@sgolovin/remote-talk)
 - [Феномен Vim и Emacs](https://teletype.in/@sgolovin/vim-and-emacs)
 <!-- BLOG:END -->
 
