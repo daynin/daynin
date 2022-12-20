@@ -3,8 +3,9 @@
 
 ### Latest blog posts (in russian):
 <!-- BLOG:START -->
-- [Подкасту Remote Talk уже 3 года. Как и зачем я его начал делать?](https://teletype.in/@sgolovin/remote-talk)
-- [Феномен Vim и Emacs](https://teletype.in/@sgolovin/vim-and-emacs)
+- [Типичная ошибка проведения технического интервью](https://teletype.in/@sgolovin/V_w6QxpMZe6?utm_source=teletype&utm_medium=feed_rss&utm_campaign=sgolovin)
+- [Подкасту Remote Talk уже 3 года. Как и зачем я его начал делать?](https://teletype.in/@sgolovin/remote-talk?utm_source=teletype&utm_medium=feed_rss&utm_campaign=sgolovin)
+- [Феномен Vim и Emacs](https://teletype.in/@sgolovin/vim-and-emacs?utm_source=teletype&utm_medium=feed_rss&utm_campaign=sgolovin)
 <!-- BLOG:END -->
 
 ### Latest episodes of my podcast (in russian):
