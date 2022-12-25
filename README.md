@@ -1,5 +1,6 @@
 [![Twitter: _sgolovin](https://img.shields.io/twitter/follow/_sgolovin?style=social)](https://twitter.com/_sgolovin)
 [![GitHub daynin](https://img.shields.io/github/followers/daynin?label=follow&style=social)](https://github.com/daynin)
+<a rel="me" href="https://fosstodon.org/@sgolovin"><img src="https://img.shields.io/mastodon/follow/000323271?domain=https%3A%2F%2Ffosstodon.org&style=social"></img></a>
 
 ### Latest blog posts (in russian):
 <!-- BLOG:START -->
