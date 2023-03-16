@@ -19,9 +19,8 @@ jobs:
           # Options
           user: daynin
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
-          config_display: columns
+          base: header, community, repositories
+          config_display: large
           config_octicon: yes
           config_timezone: UTC
           plugin_achievements: yes
@@ -41,3 +40,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           repositories_forks: yes
+
