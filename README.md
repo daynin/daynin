@@ -2,8 +2,7 @@
 <a rel="me" href="https://fosstodon.org/@sgolovin"><img src="https://img.shields.io/mastodon/follow/000323271?domain=https%3A%2F%2Ffosstodon.org&style=social"></img></a>
 [![GitHub daynin](https://img.shields.io/github/followers/daynin?label=follow&style=social)](https://github.com/daynin)
 
-### Achievements
-[![Achievements](./achievements.png)](https://metrics.lecoq.io/insights/daynin)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ### Latest blog posts (in russian):
 <!-- BLOG:START -->
