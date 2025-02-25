@@ -4,6 +4,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Jujutsu: A Modern Spin on Git](https://sgolovin.live/exploring-jujutsu-a-modern-spin-on-git?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
