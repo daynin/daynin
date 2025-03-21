@@ -4,6 +4,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust inside Common Lisp](https://sgolovin.live/rust-inside-common-lisp?pk_campaign=rss-feed)
 - [Exploring Jujutsu: A Modern Spin on Git](https://sgolovin.live/exploring-jujutsu-a-modern-spin-on-git?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
