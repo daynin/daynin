@@ -4,6 +4,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kagi: search that feels like the old web &lpar;without the junk&rpar;](https://sgolovin.live/kagi-search-that-feels-like-the-old-web-without-the-junk?pk_campaign=rss-feed)
 - [Managing Multi-Language Development Environments with Nix Flakes](https://sgolovin.live/managing-multi-language-development-environments-with-nix-flakes?pk_campaign=rss-feed)
 - [Rust inside Common Lisp](https://sgolovin.live/rust-inside-common-lisp?pk_campaign=rss-feed)
 - [Exploring Jujutsu: A Modern Spin on Git](https://sgolovin.live/exploring-jujutsu-a-modern-spin-on-git?pk_campaign=rss-feed)
